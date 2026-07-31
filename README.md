@@ -1,4 +1,4 @@
-#Endgames Scrimba
+# Endgames Scrimba
 Guess the word in under 8 attempts to keep the programming world save from Assembly!
 
 ## React + TypeScript + Vite
